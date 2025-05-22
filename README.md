@@ -28,7 +28,7 @@ SINSERA dibangun di atas fondasi template yang solid dengan fitur-fitur modern, 
 
 -   **Frontend Framework**: Next.js
 -   **Backend Framework**: Express.js
--   **Bahasa**: TypeScript (untuk frontend dan kemungkinan backend juga jika lu mau)
+-   **Bahasa**: TypeScript
 -   **Styling**: Tailwind CSS
 -   **Database**: MySQL
 -   **Arsitektur API**: RESTFull API
