@@ -91,7 +91,14 @@ import {
     PiCircleHalfTiltDuotone,
     PiHouseLineDuotone,
     PiSealCheckBold,
-    PiBuildingsDuotone 
+    PiBuildingsDuotone ,
+    PiUsersThreeDuotone,
+    PiUserDuotone, 
+    PiMoneyWavyDuotone,
+    PiClipboardDuotone,
+    PiBookBookmarkDuotone,
+    PiUserSoundDuotone,
+    PiChalkboardTeacherDuotone
 } from 'react-icons/pi'
 
 import type { JSX } from 'react'
@@ -151,7 +158,6 @@ const navigationIcon: NavigationIcons = {
     customerDetails: <PiUserCircleDuotone />,
     products: <PiPackageDuotone />,
     productList: <PiListStarDuotone />,
-    productEdit: <PiNotePencilDuotone />,
     productCreate: <PiPlusSquareDuotone />,
     projects: <PiProjectorScreenChartDuotone />,
     projectScrumBoard: <PiChalkboardSimpleDuotone />,
@@ -201,7 +207,15 @@ const navigationIcon: NavigationIcons = {
     changeLog: <PiCodeDuotone />,
 
     subscription : <PiSealCheckBold />,
-    school : <PiBuildingsDuotone />
+    school : <PiBuildingsDuotone />,
+    hrd : <PiUsersThreeDuotone />,
+    userhrd : <PiUserDuotone />,
+    finance : <PiMoneyWavyDuotone />,
+    pengadaan : <PiNotePencilDuotone/>,
+    tatausaha : <PiClipboardDuotone />,
+    kurikulum : <PiBookBookmarkDuotone/>,
+    cs : <PiUserSoundDuotone />,
+    guru : <PiChalkboardTeacherDuotone/>
     
 }
 
